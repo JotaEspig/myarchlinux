@@ -30,7 +30,7 @@ alias burpsuite="JAVA_HOME=/usr/lib/jvm/java-23-openjdk burpsuite"
 export PATH="$PATH:$HOME/.local/bin"
 export EDITOR="nvim"
 
-./.secrets.sh
+~/.secrets.sh
 
 typeset -g POWERLEVEL9K_INSTANT_PROMPT=quiet
 
